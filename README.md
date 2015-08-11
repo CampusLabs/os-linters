@@ -12,3 +12,4 @@ and install the following packages:
 - linter-eslint 
 - linter-scss-lint
 
+the packages should pick up the configs on their own so you should be ready to rock.
